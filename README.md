@@ -18,7 +18,7 @@ Clinical research experience with a passion for turning healthcare data into act
 
 ## 📫 How to Reach Me
 - Email: `franciluzli@gmail.com`  
-- LinkedIn: [[linkedin.com/in/franciluzl]
+- LinkedIn: [linkedin.com/in/franciluzl]
 
 ---
 
