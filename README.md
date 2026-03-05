@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Franciluz Lizardo
 
-<!--
-**franciluz/franciluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Who I Am
+MS in Data Science | Healthcare & Public Health Data Analyst  
+Clinical research experience with a passion for turning healthcare data into actionable insights to improve patient outcomes and decrease disparities.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
+- Analyzing hospital & clinical datasets for patterns in patient care and operational efficiency  
+- Building dashboards and visualizations in R and Python for healthcare data  
+- Personal projects exploring public health trends and epidemiologic analyses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+- **Languages:** R, Python, SQL  
+- **Data & Analysis:** Tableau, Tidyverse, Pandas, NumPy, SciPy, Scikit-Learn  
+- **Visualization:** ggplot2, matplotlib, seaborn, Plotly  
+- **Database & Cloud:** PostgreSQL, AWS
+- **Other Skills:** Data cleaning, statistical modeling, EDA, data pipelines
+
+## 📫 How to Reach Me
+- Email: `franciluzli@gmail.com`  
+- LinkedIn: [[linkedin.com/in/franciluzl]
+
+---
+
+> “Transforming healthcare data into insights that improve patient care.”
