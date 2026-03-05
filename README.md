@@ -17,8 +17,9 @@ Clinical research experience with a passion for turning healthcare data into act
 - **Other Skills:** Data cleaning, statistical modeling, EDA, data pipelines
 
 ## 📫 How to Reach Me
-- Email: `franciluzli@gmail.com`  
-- LinkedIn: [linkedin.com/in/franciluzl]
+- Email: `franciluzli@gmail.com`
+-  LinkedIn: [linkedin.com/in/franciluzl](https://www.linkedin.com/in/franciluzl)  
+
 
 ---
 
